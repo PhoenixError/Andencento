@@ -18,7 +18,7 @@
 
 ## Inspirations
 - Darkcobra
-- Uniborg
+- Unibor g
 
 
 ## Deloy On Railway
